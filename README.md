@@ -1,0 +1,1 @@
+# Hertzsprung-Rusell-Diagram
