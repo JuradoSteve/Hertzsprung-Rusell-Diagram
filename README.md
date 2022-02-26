@@ -12,7 +12,7 @@ We now that the relation between the luminosity and the effective temperature fo
 <p align="center"><img alt="L = 4\pi R_{\star}^{2} \sigma T_{eff}^{4}" src="https://render.githubusercontent.com/render/math?math=L%20%3D%204%5Cpi%20R_%7B%5Cstar%7D%20%5Csigma%20T_%7Beff%7D%5E%7B4%7D"/></p>
 
 if we divided with the Sun's values:
-$$\frac{L}{L_{\odot}} = \frac{4\pi R_{\star}^{2} \sigma T_{eff}^{4}}{4\pi R_{\odot}^{2} \sigma T_{eff,\odot}^{4}}$$
+<img src="https://latex.codecogs.com/svg.image?\frac{L}{L_{\odot}}&space;=&space;\frac{4\pi&space;R_{\star}^{2}&space;\sigma&space;T_{eff}^{4}}{4\pi&space;R_{\odot}^{2}&space;\sigma&space;T_{eff,\odot}^{4}}" title="\frac{L}{L_{\odot}} = \frac{4\pi R_{\star}^{2} \sigma T_{eff}^{4}}{4\pi R_{\odot}^{2} \sigma T_{eff,\odot}^{4}}" />
 $$\frac{L}{L_{\odot}} = \frac{R_{\star}^{2}T_{eff}^{4}}{R_{\odot}^{2}T_{eff,\odot}^{4}}$$
 
 from the above relations we have that:
