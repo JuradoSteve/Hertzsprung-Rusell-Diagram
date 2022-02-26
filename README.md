@@ -44,5 +44,5 @@ here i used the effective temperature of sun equal to <img src="https://latex.co
 
 At the moment the resulting HRD is:
 ![Hertzsprung-Russel-Diagram](https://raw.githubusercontent.com/jurados/Hertzsprung-Rusell-Diagram/main/HDR.png)
-where the line represent the mathematical aproximation for star on main sequence, the blue points are stars on main sequence from the G-appendix in [An Introduction to Modern Astrophysics (2nd Edition) - Bradley W. Carroll & Dale A. Ostile](https://www.amazon.com/Introduction-Modern-Astrophysics-2nd/dp/0805304029) and the dashed lines will be regions where stars will have these star's radius. 
+Where the line represent the mathematical aproximation for stars on main sequence, the blue points are stars on main sequence from the G-appendix in [An Introduction to Modern Astrophysics (2nd Edition) - Bradley W. Carroll & Dale A. Ostile](https://www.amazon.com/Introduction-Modern-Astrophysics-2nd/dp/0805304029) and the dashed lines will be regions where stars will have these star's radius. 
 
