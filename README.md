@@ -43,6 +43,6 @@ here i used the effective temperature of sun equal to <img src="https://latex.co
 3. Betelgeuse star has <img src="https://latex.codecogs.com/svg.image?T_{\text{eff}}&space;=&space;3500&space;\;&space;\text{K}" title="T_{\text{eff}} = 3500 \; \text{K}"/> and <img src="https://latex.codecogs.com/svg.image?L&space;=&space;63000&space;L_{\odot}" title="L = 63000 L_{\odot}"/> . Show the position of this star on your HRD.
 
 At the moment resulting HRD is:
-![Hertzsprung-Russel-Diagram](./HDR.pdf)
+![Hertzsprung-Russel-Diagram](https://github.com/jurados/Hertzsprung-Rusell-Diagram/blob/df6b544bf31de8b620bfddfc412ac9872336ec90/HDR.pdf)
 
 
