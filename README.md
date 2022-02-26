@@ -4,7 +4,7 @@ This code generate a [Hertzsprung-Rusell diagram](https://en.wikipedia.org/wiki/
 
 The homework's taks were:
 
-> The main sequence present an aproximate mass-luminosity relation as <img src="https://latex.codecogs.com/svg.image?L&space;\propto&space;M^{7/5}" title="L \propto M^{7/5}" /> and a radius-mass relation as <img src="https://latex.codecogs.com/svg.image?R&space;\propto&space;M^{4/5}" title="R \propto M^{4/5}"/>.
+> The main sequence present an aproximate mass-luminosity relation as <img src="https://latex.codecogs.com/svg.image?L&space;\propto&space;M^{7/2}" title="L \propto M^{7/2}"/> and a radius-mass relation as <img src="https://latex.codecogs.com/svg.image?R&space;\propto&space;M^{4/5}" title="R \propto M^{4/5}"/>.
 1. With the before relations you can graph the main sequence in an Hertzsprung-Rusell theoretical diagram (HRD). Your HRD should cover the range 3.5 - 4.5 for
 <img src="https://latex.codecogs.com/svg.image?\log{T_{\text{eff}}}" title="\log{T_{\text{eff}}}"/> and a appropiate range for <img src="https://latex.codecogs.com/svg.image?\log{L/L_{\odot}}" title="\log{L/L_{\odot}}"/>. Hint: Derivate first a expresion for <img src="https://latex.codecogs.com/svg.image?L" title="L"/> in <img src="https://latex.codecogs.com/svg.image?T_{\text{eff}}" title="T_{\text{eff}}"/> terms for stars in main sequences.
 
@@ -25,7 +25,7 @@ from the above relations we have that:
 
 <p align="center"><img src="https://latex.codecogs.com/svg.image?\frac{R_{\star}}{R_{\odot}}&space;=&space;\left(\frac{M_{\star}}{M_{\odot}}\right)^{4/5}" title="\frac{R_{\star}}{R_{\odot}} = \left(\frac{M_{\star}}{M_{\odot}}\right)^{4/5}"/></p>
 
-<p align="center"><img src="https://latex.codecogs.com/svg.image?\frac{L_{\star}}{L_{\odot}}&space;=&space;\left(\frac{M_{\star}}{M_{\odot}}\right)^{7/5}" title="\frac{L_{\star}}{L_{\odot}} = \left(\frac{M_{\star}}{M_{\odot}}\right)^{7/5}"/></p>
+<p align="center"><img src="https://latex.codecogs.com/svg.image?\frac{L_{\star}}{L_{\odot}}&space;=&space;\left(\frac{M_{\star}}{M_{\odot}}\right)^{7/2}" title="\frac{L_{\star}}{L_{\odot}} = \left(\frac{M_{\star}}{M_{\odot}}\right)^{7/2}"/></p>
 
 for main sequence:
 
@@ -43,5 +43,6 @@ here i used the effective temperature of sun equal to <img src="https://latex.co
 3. Betelgeuse star has <img src="https://latex.codecogs.com/svg.image?T_{\text{eff}}&space;=&space;3500&space;\;&space;\text{K}" title="T_{\text{eff}} = 3500 \; \text{K}"/> and <img src="https://latex.codecogs.com/svg.image?L&space;=&space;63000&space;L_{\odot}" title="L = 63000 L_{\odot}"/> . Show the position of this star on your HRD.
 
 At the moment resulting HRD is:
+![Hertzsprung-Russel-Diagram](./HDR.pdf)
 
 
