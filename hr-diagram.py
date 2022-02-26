@@ -44,4 +44,4 @@ ax.set_xlim(4.5,3.5)
 ax.set_xlabel(r'$\log{T_{eff}}$')
 ax.set_ylabel(r'$\log{L/L_{\odot}}$')
 
-plt.savefig('HDR.pdf',bbox_inches='tight')
+plt.savefig('HDR.png',dpi=300,bbox_inches='tight')
