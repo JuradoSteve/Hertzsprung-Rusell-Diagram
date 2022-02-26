@@ -35,7 +35,7 @@ ax.text(log_teff[7],log_LR(Rstar[3])[8],'R = '+'{}'.format(Rstar[3])+'$R_{\odot}
 
 ax.scatter(np.log10(star_data['t_eff']),np.log10(star_data['lum_lsun']))
 ax.plot(np.log10(5771),0,'y*', label='Sun',markersize=10)
-ax.plot(np.log10(3500),np.log10(63000),'r*',markersize=10,label='Betelguese')
+ax.plot(np.log10(3500),np.log10(63000),'r*',markersize=10,label='Betelgeuse')
 ax.tick_params(axis='both',which='both',direction='in')
 ax.yaxis.set_minor_locator(tck.AutoMinorLocator())
 ax.xaxis.set_minor_locator(tck.AutoMinorLocator())
